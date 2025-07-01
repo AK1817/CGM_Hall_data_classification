@@ -28,4 +28,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubuser/dzd-app:latest
+          tags: ak1817/dzd-app:latest
+
